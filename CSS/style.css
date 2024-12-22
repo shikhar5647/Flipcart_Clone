@@ -23,8 +23,26 @@ header{
     color: white;
 }
 
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    width: 50px;
+}
+
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
 nav ul li{
     list-style: none;
+    display: flexbox;
+    padding: 0 25px;
 }
 
 nav ul li a{
