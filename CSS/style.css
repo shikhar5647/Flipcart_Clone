@@ -74,3 +74,16 @@ nav ul li a:hover{
     border-radius: 7px;
     padding: 0 12px;
 }
+
+.slider {
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider img {
+    width: 30%;
+    border-radius: 2px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
