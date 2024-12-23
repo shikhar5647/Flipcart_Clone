@@ -1,3 +1,11 @@
 .text-centre{
     text-align: center;
 }
+
+.btn{
+    padding: 5px 7px;
+    color: blanchedalmond;
+    background-color: rgb(96, 92, 92);
+    border: 2px solid rgb(240, 235, 235);
+    cursor: pointer;
+}
