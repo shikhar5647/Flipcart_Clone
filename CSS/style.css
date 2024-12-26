@@ -91,3 +91,9 @@ nav ul li a:hover{
 .card{
     background-color: azure;
 }
+
+.card-item{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
