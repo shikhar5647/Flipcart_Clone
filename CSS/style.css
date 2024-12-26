@@ -69,7 +69,7 @@ nav ul li a:hover{
 }
 
 .search input{
-    width: 500px;
+    width: 30vw;
     height: 35px;
     border-radius: 7px;
     padding: 0 12px;
@@ -93,7 +93,7 @@ nav ul li a:hover{
 }
 
 .card-item{
-    display: flex;
+    display: inline-flex;
     justify-content: center;
     flex-direction: column;
 }

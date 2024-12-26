@@ -1,0 +1,14 @@
+@media screen and (max-width:900px) {
+    body{
+        background-color: red;
+    }
+    nav{
+        flex-direction: column;
+    }
+    .logo{
+        justify-content: center;
+    }
+    .search{
+        justify-content: center;
+    }
+}
